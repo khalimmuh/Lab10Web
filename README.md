@@ -1,4 +1,4 @@
-## nama : khalim <br> kelas : ti.19 b1 <br> nim : 311910742
+## Nama : KHALIM <br> KELAS : TI.19 B1 <br> NIM : 311910742
 
 # Buat file baru dengan nama mobil.php
 
